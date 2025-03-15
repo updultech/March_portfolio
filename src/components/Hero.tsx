@@ -40,7 +40,7 @@ const Hero = () => {
           <div className="order-1 lg:order-2 flex justify-center">
             <div className="relative">
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-primary/20 shadow-xl">
-                <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80" alt="John Doe" className="w-full h-full object-cover" />
+                <img alt="John Doe" className="w-full h-full object-cover" src="/lovable-uploads/2f2d81fe-c8bc-4943-a6bd-cf0caaec7fa9.png" />
               </div>
               <div className="absolute -bottom-4 -right-4 w-32 h-32 rounded-full bg-primary/10 -z-10 animate-pulse-slow"></div>
               <div className="absolute -top-4 -left-4 w-24 h-24 rounded-full bg-primary/10 -z-10 animate-pulse-slow" style={{
