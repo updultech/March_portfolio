@@ -1,15 +1,13 @@
-
 import React from 'react';
 import { ArrowRight, Github, Linkedin, Twitter, Youtube } from 'lucide-react';
 import { cn } from '@/lib/utils';
-
 const Hero = () => {
   return <section id="home" className="min-h-screen flex items-center pt-16">
       <div className="container mx-auto px-6">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div className="order-2 lg:order-1 animate-fade-in">
             <h1 className="text-4xl lg:text-6xl leading-tight mb-4 md:text-5xl font-bold">
-              Hi, I'm <span className="text-primary">Abdul Hakeem</span>
+              Hi, I'm <span className="text-primary">Abdul Hakim</span>
             </h1>
             <h2 className="text-xl md:text-2xl text-muted-foreground mb-6">
               Web Developer & Designer
@@ -57,5 +55,4 @@ const Hero = () => {
       </div>
     </section>;
 };
-
 export default Hero;
