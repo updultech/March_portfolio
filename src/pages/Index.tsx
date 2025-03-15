@@ -11,7 +11,7 @@ import Footer from '@/components/Footer';
 const Index = () => {
   useEffect(() => {
     // Set document title
-    document.title = 'John Doe | Web Developer & Designer';
+    document.title = 'Abdul Hakeem | Web Developer & Designer';
     
     // Create a scroll container for smooth scrolling
     document.documentElement.classList.add('scroll-container');

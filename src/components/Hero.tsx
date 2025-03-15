@@ -1,6 +1,8 @@
+
 import React from 'react';
-import { ArrowRight, Github, Linkedin, Twitter } from 'lucide-react';
+import { ArrowRight, Github, Linkedin, Twitter, Youtube } from 'lucide-react';
 import { cn } from '@/lib/utils';
+
 const Hero = () => {
   return <section id="home" className="min-h-screen flex items-center pt-16">
       <div className="container mx-auto px-6">
@@ -35,6 +37,9 @@ const Hero = () => {
               <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-primary transition-colors" aria-label="Twitter Profile">
                 <Twitter size={24} />
               </a>
+              <a href="https://youtube.com" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-primary transition-colors" aria-label="YouTube Channel">
+                <Youtube size={24} />
+              </a>
             </div>
           </div>
           <div className="order-1 lg:order-2 flex justify-center">
@@ -52,4 +57,5 @@ const Hero = () => {
       </div>
     </section>;
 };
+
 export default Hero;
