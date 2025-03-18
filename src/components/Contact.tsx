@@ -1,3 +1,4 @@
+
 import React, { useState } from 'react';
 import { Mail, Phone, MapPin, Send, Github, Linkedin, Twitter } from 'lucide-react';
 import { cn } from '@/lib/utils';
@@ -105,14 +106,14 @@ const Contact = () => {
                 <label htmlFor="name" className="block text-sm font-medium mb-2">
                   Your Name
                 </label>
-                <input type="text" id="name" name="name" value={formData.name} onChange={handleChange} required className={cn("w-full rounded-md border border-input bg-background px-4 py-2", "focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent", "transition-colors")} placeholder="John Doe" />
+                <input type="text" id="name" name="name" value={formData.name} onChange={handleChange} required className={cn("w-full rounded-md border border-input bg-background px-4 py-2", "focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent", "transition-colors")} placeholder="Abdul Hakim" />
               </div>
               
               <div>
                 <label htmlFor="email" className="block text-sm font-medium mb-2">
                   Your Email
                 </label>
-                <input type="email" id="email" name="email" value={formData.email} onChange={handleChange} required className={cn("w-full rounded-md border border-input bg-background px-4 py-2", "focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent", "transition-colors")} placeholder="john@example.com" />
+                <input type="email" id="email" name="email" value={formData.email} onChange={handleChange} required className={cn("w-full rounded-md border border-input bg-background px-4 py-2", "focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent", "transition-colors")} placeholder="wise03667@gmail.com" />
               </div>
               
               <div>
