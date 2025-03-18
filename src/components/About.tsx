@@ -75,12 +75,12 @@ const About = () => {
                 <p className="text-muted-foreground">University For Development Studies • 2023-2027</p>
               </div>
               <div className="border-l-2 border-primary pl-4 py-2">
-                <h4 className="text-lg font-medium">Senior Web Developer</h4>
-                <p className="text-muted-foreground">Tech Solutions Inc. • 2020-Present</p>
+                <h4 className="text-lg font-medium">Web Developer</h4>
+                <p className="text-muted-foreground">UpdulTech incorporations services• 2025-Present</p>
               </div>
               <div className="border-l-2 border-primary pl-4 py-2">
                 <h4 className="text-lg font-medium">Frontend Developer</h4>
-                <p className="text-muted-foreground">Digital Agency • 2018-2020</p>
+                <p className="text-muted-foreground">Unimarket Gh 2025</p>
               </div>
             </div>
           </div>
