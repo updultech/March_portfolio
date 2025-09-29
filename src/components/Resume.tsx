@@ -27,9 +27,9 @@ const experiences = [
 const education = [
   {
     degree: 'Bachelor of Science in Computer Science',
-    institution: 'University of Technology',
-    period: '2014 - 2018',
-    description: 'Graduated with honors. Specialized in web development and user interface design.',
+    institution: 'University for Development Studies',
+    period: '2023 - 2027',
+    description: 'Specialized in web development and user interface design.',
   },
   {
     degree: 'Full Stack Web Development Bootcamp',
