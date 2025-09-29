@@ -54,17 +54,13 @@ const About = () => {
             <h3 className="text-2xl font-semibold mb-6">My Story</h3>
             <div className="space-y-4 text-foreground/80">
               <p>
-                With over 5 years of experience in web development, I've worked on a variety 
-                of projects ranging from small business websites to complex web applications.
+                I am a Web Developer and Graphic Designer with a passion for blending creativity and technology to craft digital solutions that inspire and engage. With expertise in front-end development, UI/UX design, and brand identity creation, I specialize in building responsive, user-friendly websites and delivering visual designs that communicate effectively.
               </p>
               <p>
-                I started my journey as a self-taught developer, and I've been constantly 
-                learning and improving my skills ever since. My passion for clean code and 
-                attention to detail drives me to create high-quality, performant web solutions.
+                My approach is centered on innovation, detail, and functionality—ensuring every project not only looks good but also performs seamlessly. Whether it's coding a website from scratch, refining a user interface, or creating bold graphics, I enjoy transforming ideas into experiences that make an impact.
               </p>
               <p>
-                When I'm not coding, you can find me exploring new technologies, contributing 
-                to open source projects, or sharing my knowledge through blog posts and tutorials.
+                Beyond technical skills, I bring a strong sense of adaptability, teamwork, and problem-solving, making me a valuable partner for both creative projects and technical collaborations.
               </p>
             </div>
 
